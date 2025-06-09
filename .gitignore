@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿################################################################################
 # 📁 Visual Studio and .NET build output
 ################################################################################
@@ -56,3 +57,11 @@ Thumbs.db
 # 📸 Optional: remove test keys from node_modules
 ################################################################################
 src/**/node_modules/
+=======
+
+# Block secrets and sensitive files
+*.pem
+*.key
+*.env
+node_modules/
+>>>>>>> d29f18d (cleanup_git_history.sh)
