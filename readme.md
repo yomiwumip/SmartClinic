@@ -1,4 +1,4 @@
-# SmartClinic - A Demo app for Azure DevOps Zero to Hero
+# SmartClinic - Smart Clinic App
 
 ## Overview
 SmartClinic, a sample application built for demo and training purposes, is for a fictitious health care provider **SmartClinic.biz**. 
