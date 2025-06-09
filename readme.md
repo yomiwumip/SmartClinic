@@ -1,8 +1,8 @@
 # SmartClinic - A Demo app for Azure DevOps Zero to Hero
 
 ## Overview
-My Health Clinic, a sample application built for demo and training purposes, is for a fictitious health care provider **SmartClinic.biz**. 
-HealthClinic.biz uses different Microsoft and multi-channel apps built with Visual Studio and Azure to grow their business and modernize their customer experience. 
+SmartClinic, a sample application built for demo and training purposes, is for a fictitious health care provider **SmartClinic.biz**. 
+SmartClinic.biz uses different Microsoft and multi-channel apps built with Visual Studio and Azure to grow their business and modernize their customer experience. 
 They also innovate and offer multiple apps and services—including websites, mobile apps, and wearable apps—to empower their patient’s well-being with easy access to manage their healthcare data and stay healthy.
 
 **Note:** 
