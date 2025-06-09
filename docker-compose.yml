@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  SmartClinic.web:
+    image: SmartClinic.web
+    build:
+      context: ./src/SmartClinic.Web
+      dockerfile: Dockerfile
